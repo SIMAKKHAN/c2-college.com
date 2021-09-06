@@ -1,0 +1,195 @@
+.e5 a{
+	text-decoration: none;
+	color: white;
+	font-family: cursive;
+	
+	
+}
+
+.e5 li{
+	display: inline;
+	background-color: black;
+	padding: 10px;
+}
+
+.e5 ul{
+	background-color: black;
+	padding: 10px;
+	margin-bottom: 10px;
+	margin-top: 10px;
+
+}
+
+.e5 img{
+	background-color: white;
+}
+
+.r4 h1{
+	text-align: center;
+	background-image: url(12.png);
+	color: yellow;
+	font-family: cursive;
+	padding: 20px;
+}
+
+.r3 h3{
+	text-align: center;
+	background-color: yellow;
+	font-family: cursive;
+	padding: 10px;
+}
+
+.r3 p{
+	background-color: black;
+	padding: 10px;
+	font-family: cursive;
+	color: white;
+}
+
+.de p{
+	text-align: center;
+	color: red;
+	background-color: yellow;
+	font-size: 20px;
+	padding: 10px;
+	font-family: cursive;
+}
+
+.r5 h3{
+    
+    background-color: red;
+    color: white;
+    font-family: cursive;
+    padding: 10px;
+    font-size: 20px;
+
+}
+
+.r5 img{
+	background-color: red;
+}
+
+.r5 p{
+
+	font-family: cursive;
+	background-color: yellow;
+	padding: 10px;
+	color: black;
+	margin-right: 900px;
+}
+
+.p2 p{
+	background-color: cyan;
+	padding: 10px;
+	font-family: cursive;
+} 
+
+.p3 p{
+	background-color: lime;
+	padding: 10px;
+	font-family: cursive;
+} 
+
+.p4 h4{
+	background-color:yellow;
+	font-size: 20px;
+	padding: 10px;
+	font-family: cursive; 
+	color: red;
+}
+
+.p4 p{
+	background-color: cyan;
+	font-family: cursive;
+	padding: 10px;
+}
+
+.p4 h5{
+	background-color: black;
+	color: white;
+	padding: 10px;
+	size: 10px;
+	font-family: cursive;
+}
+
+.e5 a:hover{
+	color: red;
+	font-size: 30px;
+	font-family: Agency FB;
+}
+
+#ready aside{
+	background-color: black;
+	color: white;
+	font-family: cursive;
+	padding: 10px;
+}
+
+#ready h3{
+	text-align: center;
+	font-family:cursive ;
+	background-color: brown;
+	color: white;
+	padding: 10px;
+	font-size: 30px;
+}
+
+#jam h4{
+	font-family: Agency FB;
+	font-size: 30px;
+	background-color: black;
+	color: white;
+	padding: 10px;
+	margin-right: 1010px;
+}
+.MY h1{
+	background-color: black;
+	color: white;
+	padding: 10px;
+	font-family: Agency FB;
+}
+
+.ty video{
+	background-color: lime;
+
+}
+
+.ty video:hover{
+	background-image:url(84.png);
+}
+
+.bu label{
+	background-color: black;
+	color: white;
+	font-family: cursive;
+	padding: 5px;
+}
+
+.bu button{
+	background-color: black;
+	color: white;
+	padding: 10px;
+}
+
+.bu button:hover{
+	background-color: yellow;
+	padding: 15px;
+	color: red;
+	font-family:cursive;
+}
+
+.bu a{
+     
+     text-decoration: none;
+     color: white;
+}
+
+.bu a:hover{
+	color: red;
+}
+.footer p{
+      text-align: center;
+      background-color: gray;
+      padding: 10px;
+      color: white;
+}
